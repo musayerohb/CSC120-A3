@@ -5,3 +5,5 @@ Use this file to record your reflection on this assignment.
 - What are your initial impressions of Java? 
 - Can you draw any conclusion about programming in general from the similarities or the differences between the two languages? 
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+
+Eva and I consulted each other first on this assignment and worked together on it on 2/11. 
