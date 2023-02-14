@@ -25,7 +25,8 @@ class Conversation {
       
       // Look for words to mirror
       String[] user_response_list = user_response.split(" ");
-
+      should_response_change = false;
+      
       for (int i = 0; i < user_response_list.length; i++){
         if (user_response_list[i].equals("I")){
           int position = i;
