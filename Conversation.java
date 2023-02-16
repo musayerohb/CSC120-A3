@@ -3,6 +3,10 @@ import java.util.Random;
 import java.util.ArrayList;
 
 class Conversation {
+  /**
+   * Generates a conversation being held between the user and chatbot. Uses many statements to switch out certain words with mirror words and generates one of a list of canned repsonses if no mirror words are found. Ends after the given number of rounds has passed and prints a transcript of the conversation.
+   * @param arguments The program's arguments
+   */
   public static void main(String[] arguments) {
 
     String[] canned_responses = {"That's so cool!", "Wow!", "I never thought about that.", "Oh...", "Interesting..."};
